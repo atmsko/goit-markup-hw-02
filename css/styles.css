@@ -1,0 +1,49 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: 2E2F42;
+    background-color: white;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+button {
+    cursor: pointer;
+}
+.logo {
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 18px;
+}
+.logo1 {
+   
+    color: #010211;
+    
+}
+.logo2 {
+   
+    color: #4D5AE5;
+   
+}    
+.slogan {
+    background-color: #2E2F42;
+}
+.slogan-title {
+    font-weight: 700;
+    font-size: 56px;
+    color: #FFFFFF;
+}
+.team {
+    background-color: cloud;
+}
+.title-name {
+    font-weight: 600;
+    font-size: 20px;
+    color: #2E2F42;
+  }
+.title-name-prof {
+    font-size: 16px;
+    color: #434455;
+}
