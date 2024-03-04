@@ -70,6 +70,12 @@ button {
 .slogan-bt:hover, .slogan-bt:focus {
     background-color: #404BBF;
 }
+.features {
+    font-weight: 500 ;
+    line-height: 1.2 ;
+    letter-spacing: 0.02em ;
+
+}
 .team {
     background-color: cloud;
 }
