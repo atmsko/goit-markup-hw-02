@@ -38,16 +38,21 @@ button {
     font-style: normal;
 } 
 .address-link { 
-    color: #434455; 
-    font-size: 16px; 
-    line-height: 1.5; 
-    letter-spacing: 0.02em; 
+    font-weight: 500;
+    font-size: 16px ;
+    line-height: 1.5 ;
+    letter-spacing: 0.02em ;
+    color: #434455 ;
 }
 .address-link:hover, .address-link:focus { 
     color: #404BBF; 
 }
 .slogan {
     font-weight: 500;
+    font-size: 16px ;
+    line-height: 1.5 ;
+    letter-spacing: 0.02em ;
+    color: #2e2f42 ;
     background-color: #2E2F42;
 }
 .slogan-title {
