@@ -86,9 +86,6 @@ button {
 .team {
     background-color: #F4F4FD;
 }
-.team-fon {
-    background-color: #FFFFFF;
-}
 .team-title {
     font-size: 36px ;
     line-height: 1.11 ;
@@ -96,6 +93,9 @@ button {
     letter-spacing: 0.02em ;
     text-transform: capitalize ;
     color: #2e2f42 ;
+}
+.team-fon {
+    background-color: #FFFFFF;
 }
 .portfolio-title {
     font-size: 36px ;
