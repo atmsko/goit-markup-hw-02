@@ -97,6 +97,14 @@ button {
     text-transform: capitalize ;
     color: #2e2f42 ;
 }
+.portfolio-title {
+    font-size: 36px ;
+    line-height: 1.11 ;
+    text-align: center ;
+    letter-spacing: 0.02em ;
+    text-transform: capitalize ;
+    color: #2e2f42 ;
+}
 .portfolio-title-name {
     font-weight: 500;
     font-size: 20px;
@@ -109,14 +117,6 @@ button {
     font-size: 16px;
     letter-spacing: 0.02em ;
     color: #434455;
-}
-.portfolio-title {
-    font-size: 36px ;
-    line-height: 1.11 ;
-    text-align: center ;
-    letter-spacing: 0.02em ;
-    text-transform: capitalize ;
-    color: #2e2f42 ;
 }
 .footer-logo {
    color: #f4f4fd ;
