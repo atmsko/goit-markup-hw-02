@@ -70,6 +70,19 @@ button {
 .slogan-bt:hover, .slogan-bt:focus {
     background-color: #404BBF;
 }
+.features-title {
+    font-weight: 500 ;
+    font-size: 20px ;
+    line-height: 1.2 ;
+    letter-spacing: 0.02em ;
+    color: #2e2f42;
+}
+.features-title-prf {
+    font-size: 16px ;
+    line-height: 1.5 ;
+    letter-spacing: 0.02em ;
+    color: #434455 ;
+}
 .team {
     background-color: #F4F4FD;
 }
@@ -84,14 +97,14 @@ button {
 .team-fon {
     background-color: #FFFFFF;
 }
-.features-title {
+.team-name {
     font-weight: 500 ;
     font-size: 20px ;
     line-height: 1.2 ;
     letter-spacing: 0.02em ;
     color: #2e2f42;
 }
-.features-title-prf {
+.team-name-prf {
     font-size: 16px ;
     line-height: 1.5 ;
     letter-spacing: 0.02em ;
